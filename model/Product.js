@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 
+
+// these are just containers
 const productSchema = new mongoose.Schema(
   {
     id: String,
